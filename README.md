@@ -10,3 +10,12 @@ HTTP Request:
 Method (GET, POST, etc.)
 URL/path
 Headers (browser info, format, etc.)
+
+
+
+## 1. Installation and Verification
+curl is a command-line tool used to transfer data using network protocols such as HTTP and HTTPS.
+
+To check if curl is installed:
+```bash
+curl --version
